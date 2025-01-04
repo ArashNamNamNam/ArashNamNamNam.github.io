@@ -9,7 +9,7 @@ last_name: NamNamNam
 contact_note: >
   the best way to reach me is texting me in https://t.me/ArashNamNamNam
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. #IT HAS TO CHANGE
+  you can see a summary of my biography here. Based on [*folio](https://github.com/bogoli/-folio) design. #IT HAS TO CHANGE
 footer_text: >
   rootly programed by <a href="https://t.me/ArashNamNamNam" target="_blank">ME</a> 
 keywords: ArashAmiri, Arash_Amiri, ArashNamNamNam, ArashPsycho, Arash_Psycho, APTGamer, APT_Gamer # add your own keywords or leave empty
@@ -114,7 +114,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: NamNamNam # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.

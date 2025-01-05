@@ -116,17 +116,6 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "post-a-distill-style-blog-post",
-      
-        title: "a distill-style blog post",
-      
-      description: "an example of a distill-style blog post and main elements",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2021/distill/";
-        
-      },
     },{id: "post-a-post-with-disqus-comments",
       
         title: "a post with disqus comments",

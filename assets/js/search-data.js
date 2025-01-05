@@ -83,11 +83,11 @@ ninja.data = [{
           window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
         
       },
-    },{id: "post-a-post-with-advanced-image-components",
+    },{id: "post-my-cool-pics",
       
-        title: "a post with advanced image components",
+        title: "my cool pics",
       
-      description: "this is what advanced image components could look like",
+      description: "pics of my favorites movies are here",
       section: "Posts",
       handler: () => {
         
